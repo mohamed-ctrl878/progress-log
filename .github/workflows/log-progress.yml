@@ -6,6 +6,11 @@ on:
       - leetcode_solved
       - coursera_viewed
       - duolingo_lesson
+      - hackerrank_solved
+      - codeforces_solved
+      - edx_completed
+      - udemy_completed
+      - youtube_watched
       - custom_progress
 
 permissions:

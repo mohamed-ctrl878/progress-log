@@ -1,8 +1,8 @@
 # Progress Log
 
-Last activity: **Solved: Longest Unequal Adjacent Groups Subsequence I (Easy)** on **LeetCode**
+Last activity: **Solved: Find the Index of the First Occurrence in a String (Easy)** on **LeetCode**
 
-_Updated: 2026-05-28 16:30 UTC_
+_Updated: 2026-05-28 16:40 UTC_
 
 ## Recent Logs
 - [2026-05-28](logs/2026-05-28.md)
